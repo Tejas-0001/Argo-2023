@@ -1,0 +1,33 @@
+* {
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 2rem;
+}
+
+.layout {
+    display: flex;
+    flex-direction: row;
+}
+
+.team {
+    display: flex;
+    flex-direction: column;
+    margin-left: 8rem;
+}
+
+.bid {
+    margin-left: 15rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.bidamt {
+    margin-top: 8rem;
+    font-size: 80px;
+}
+
+.player {
+    margin-top: -4rem;
+    margin-left: 18rem;
+
+}
